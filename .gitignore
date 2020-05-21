@@ -35,3 +35,6 @@ lerna-debug.log*
 
 # yarn
 yarn.lock
+
+# visual studio setting
+.vscode
